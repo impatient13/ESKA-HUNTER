@@ -1,2 +1,15 @@
 # ESKA-HUNTER
-eska hunter is a cloud scanner that will create a combolist from a targeted url in mail:pass format
+
+Features:
+- French Tool
+- V1
+- Super Fast
+- Drag and Drop systeme
+- Open Sources
+- 
+- pls credits me 
+
+
+Screen: 
+
+![image](https://github.com/user-attachments/assets/3aa87119-2c35-410e-b6de-66885ad15837)
