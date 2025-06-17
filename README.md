@@ -1,4 +1,4 @@
-# Combo Filter by Site
+# Cloud Filter by Eska
 
 This Python script filters combos (formatted as `url:email:password`) from a file by a specified target site or domain. It extracts matching email:password pairs, displays them with color-coded output and progress bar, and saves the results to a timestamped file in a `results` folder.
 
