@@ -60,7 +60,7 @@ def save_results(matches, site_filter):
     now = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     filename = f"{site_filter.replace('.', '_')}_{now}.txt"
     filepath = "results/" + filename
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write("\n".join(matches))
     return filepath
 
